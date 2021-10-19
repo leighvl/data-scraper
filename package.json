@@ -1,0 +1,15 @@
+{
+  "name": "data-scraper",
+  "version": "1.0.0",
+  "description": "Working on webscraper in Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leigh V",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
